@@ -1,0 +1,10 @@
+com/example/listviewspersonalizado/BuildConfig.java
+ com.example.listviewspersonalizado.BuildConfig
+com/example/listviewspersonalizado/Pokemon.java
+ com.example.listviewspersonalizado.Pokemon
+com/example/listviewspersonalizado/MainActivity.java
+ com.example.listviewspersonalizado.MainActivity
+ com.example.listviewspersonalizado.MainActivity$1
+ com.example.listviewspersonalizado.MainActivity$1$1
+com/example/listviewspersonalizado/AdaptadorPersonalizado.java
+ com.example.listviewspersonalizado.AdaptadorPersonalizado
